@@ -59,6 +59,6 @@
 <br>
  <div align="center">
 
-  ![Snake animation](https://github.com/RayanArgolo03/RayanArgolo03/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/seu-usuário-aqui/RayanArgolo03/blob/output/github-contribution-grid-snake.svg)
 
 </div>
