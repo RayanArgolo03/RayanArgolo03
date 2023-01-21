@@ -18,13 +18,6 @@
 <p> 💬 Pergunte-me sobre tudo!! O que não sei, pesquiso e aprendo. <p>
 
 
-  <p align="center">
-
-
-
-                   
-  ![Rayan GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanArgolo03&show_icons=true&theme=darcula)
-</p>
 
 <br>
 <div  align="center"> 
