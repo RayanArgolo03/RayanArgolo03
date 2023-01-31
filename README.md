@@ -1,6 +1,6 @@
-<h1 align="center">Hello World, Meu nome é Rayan! 😁</h1>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=beige&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!,+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Front+End;+:%29)](https://git.io/typing-svg)/
 
 
 <!-- ... -->
