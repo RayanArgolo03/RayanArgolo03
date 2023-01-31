@@ -12,7 +12,7 @@
 
 <p>📚 Desenvolvimento Web Full Stack pela Resilia Educação. <p>
 <p> 🌱 Venho estudando e aprimorando meu conhecimento em JavaScript, HTML e CSS. <p>
-<p>🎯- Cursos em progresso: B7Web e Jornada Dev.</p>
+<p>🎯- Cursos em progresso: B7Web e CJRM.</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p> ⚡ Leitor assíduo, calistênico, adepto ao aprendizado contínuo.  <p>
 <p> 💬 Pergunte-me sobre tudo!! O que não sei, pesquiso e aprendo. <p>
