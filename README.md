@@ -13,8 +13,8 @@
 
 <!--  INFORMAÇÕES PESSOAIS -->
 <p>📚 Bootcamp Desenvolvimento Web Full Stack - Resilia e Prefeitura do Rio de Janeiro. <p>
-<p> 🌱 Venho estudando e aprimorando meu conhecimento na stack Front-End. <p>
-<p>🎯- Cursos externos em progresso: B7Web, CJRM, OneBitCode.</p>
+<p> 🌱 Venho estudando e aprimorando meu conhecimento em Programação <p>
+<p>🎯- Cursos externos em progresso: B7Web, CJRM, StartByCapgemini</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
 <p> ⚡ Leitor assíduo, calistênico, adepto ao aprendizado contínuo e da tese "Mindset".  <p>
 <p> 💬 Pergunte-me sobre tudo!! O que não sei, pesquiso e aprendo. <p>
