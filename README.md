@@ -31,13 +31,6 @@
   <img align="center" alt="GIT" height="50" width="50" src="https://icongr.am/devicon/git-original.svg?size=102&color=currentColor">
 </div>                                                                                                                                          
 <br>
-  
-
-  <!--  CONFIRA MEUS ÚLTIMOS PROJETOS  -->
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  <h2>Confira meus últimos Commits</h2>
-<br>
          
   
 <!-- CONTATO -->
