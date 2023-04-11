@@ -1,6 +1,6 @@
 
 <!--  NOME CARREGANDO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=beige&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!,+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Front+End+em+Formação;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=beige&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Java+em+Formação;+:%29)](https://git.io/typing-svg)
 
 
 
@@ -22,7 +22,7 @@
 
 
 <!--  TECNOLOGIAS QUE DOMINO -->
-<div  align="center"> 
+<!-- <div  align="center"> 
   <div style="display: inline_block"><br>
   <h2>Ferramentas & Tecnologias</h2>
   <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,23 +33,15 @@
 <br>
   
 
-  <!--  TECNOLOGIAS QUE PRETENDO APRENDER  -->
+  <!--  CONFIRA MEUS ÚLTIMOS PROJETOS  -->
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <h2>Pretendo Aprender</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"/>
-</div> 
+  <h2>Confira meus últimos Commits</h2>
 <br>
          
   
 <!-- CONTATO -->
-<h2>Contato</h2>
-
-  
+<h2>Contato</h2> 
 <div>
 <a href="https://www.linkedin.com/in/rayanargolo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
