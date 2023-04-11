@@ -16,7 +16,7 @@
 <p> 🌱 Venho estudando e aprimorando meu conhecimento em Programação <p>
 <p>🎯- Cursos externos em progresso: B7Web, CJRM, StartByCapgemini</p>
 <p>🏡- Moro no Rio de Janeiro, RJ.</p>
-<p> ⚡ Leitor assíduo, calistênico, adepto ao aprendizado contínuo e da tese "Mindset".  <p>
+<p> ⚡ Leitor assíduo, calistênico, adepto ao aprendizado contínuo e nerd declarado.  <p>
 <p> 💬 Pergunte-me sobre tudo!! O que não sei, pesquiso e aprendo. <p>
 <br>
 
