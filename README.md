@@ -10,11 +10,10 @@ No meu tempo livre gosto de ler livros sobre desenvolvimento interpessoal e filo
 
 Fico a disposição para um bate-papo, ideias ou projetos. Me mande mensagem!
 
-<h3> GitHub:
-https://github.com/RayanArgolo03
+
 <h3>Linkedin
 https://www.linkedin.com/in/rayanargolo
-<h3>Meu Instagram:
+<h3> Instagram:
 https://www.instagram.com/rayan_argolo/
   <hr>
    
