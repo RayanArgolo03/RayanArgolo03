@@ -1,14 +1,14 @@
 
 <!--  NOME CARREGANDO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=beige&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Java+em+Formação;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Java+em+Formação;+:%29)](https://git.io/typing-svg)
 
 # Sobre Mim:
 
-Como entusiasta do aprendizado contínuo procuro sempre estar informado e me rebuscar com o que o mercado almeja; tanto no aspecto técnico como no emocional, intelectual e comportamental. Venho estudando Java SE/ EE e todo seu ecossistema de tecnologias, com enfoque no Desenvolvimento Back-End.
+Como entusiasta do aprendizado contínuo, busco sempre me manter informado e me aprimorar nas áreas técnicas, emocionais, interpessoais e comportamentais que o mercado demanda. Tenho me dedicado ao estudo de Java SE/EE e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
 
-No meu tempo livre gosto de ler livros sobre desenvolvimento interpessoal e filosofia, mitologia e agregadores de valor. Também prático calistenia, prezo pelo corpo alinhado a mente. Além disso, busco cultivar bons momentos com minha família. 
+No meu tempo livre, gosto de ler livros sobre desenvolvimento interpessoal, filosofia, mitologia e conteúdos que agregam valor. Também pratico calistenia, pois acredito na importância de alinhar o corpo a mente. Além disso, valorizo momentos de qualidade com minha família.
 
-Fico a disposição para um bate-papo, ideias ou projetos. Me mande mensagem!
+Estou disponível para um bate-papo informal, troca de ideias ou projetos. Sinta-se à vontade para me enviar uma mensagem!
 
 
 <h3>Linkedin
