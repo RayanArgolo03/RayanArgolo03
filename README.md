@@ -4,7 +4,7 @@
 
 # Sobre Mim:
 
-Como entusiasta do aprendizado contínuo, busco sempre me manter informado e me aprimorar nas áreas técnicas, emocionais, interpessoais e comportamentais que o mercado demanda. Tenho me dedicado ao estudo de Java SE/EE e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
+Carioca, leitor assíduo e entusiasta tecnológico. Tenho me dedicado ao estudo de Java e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
 
 Estou disponível para um bate-papo informal, troca de ideias ou projetos. Sinta-se à vontade para me enviar uma mensagem!
 
