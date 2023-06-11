@@ -4,7 +4,7 @@
 
 # Sobre Mim:
 
-Carioca, leitor assíduo e entusiasta tecnológico. Tenho me dedicado ao estudo de Java e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
+Carioca, leitor assíduo e entusiasta tecnológico. Tenho me dedicado ao estudo da liguagem Java e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
 
 Estou disponível para um bate-papo informal, troca de ideias ou projetos. Sinta-se à vontade para me enviar uma mensagem!
 
