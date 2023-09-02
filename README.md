@@ -16,7 +16,6 @@ Estou disponível para um bate-papo informal, troca de ideias ou projetos. Sinta
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="80px" height="80px">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="80px" height="80px">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="80px" height="80px">
-   <img src="" width="80px" height="80px">
 </div>
 
 </div>
