@@ -11,11 +11,11 @@
 
 # Tecnologias 
 <div>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70px" height="70px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"  width="70px" height="70px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"  width="70px" height="70px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  width="70px" height="70px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="70px" height="70px">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60px" height="60px">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"  width="60px" height="60px">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="60px" height="60px">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  wwidth="60px" height="60px">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"  width="60px" height="60px">
 </div>
 
 </div>
