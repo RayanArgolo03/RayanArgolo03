@@ -1,6 +1,6 @@
 
 <!--  NOME CARREGANDO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Java+em+Formação;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello_World!+Meu+Nome+é+Rayan+Argolo;Desenvolvedor+Java+em+Formação;+:%29)](https://git.io/typing-svg)
 
 # Sobre Mim:
 Carioca, leitor assíduo e entusiasta tecnológico. Tenho me dedicado ao estudo da liguagem Java e seu ecossistema de tecnologias, com foco no desenvolvimento back-end.
