@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h1>Tecnologias</h1>
+<h1>Tecnologias:</h1>
 <div>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="54px" height="54px">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"  width="54px" height="54px">
