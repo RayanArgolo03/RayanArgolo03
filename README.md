@@ -18,11 +18,13 @@
 
 <h1>Tecnologias:</h1>
 <div>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="54px" height="54px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"  width="54px" height="54px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="54px" height="54px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="54px" height="54px">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="54px" height="54px">
+   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="54px" height="54px">
+   <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"  width="54px" height="54px">
+   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="54px" height="54px">
+   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="54px" height="54px">
+   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="54px" height="54px">
+  <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" width="54px" height="54px">
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="54px" height="54px">
 </div>
 
 <h1>📊 Minhas Estatísticas:</h1>
