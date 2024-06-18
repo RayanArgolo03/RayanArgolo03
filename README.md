@@ -38,5 +38,10 @@ private String chamarNoDesenrolo(){
 <img height="30" weigth ="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img height="30" weigth ="30" src="https://img.shields.io/badge/Mock%20Service%20Worker-FF6A33.svg?style=for-the-badge&logo=Mock-Service-Worker&logoColor=white">
 </div>
+
+<br>
+
+> [!TIP]
+> Segundo Aristóteles, <strong>nós somos o que fazemos repetidas vezes; então, a excelência não é um ato, mas sim um hábito<strong>. Estude, seja paciente. 
+
