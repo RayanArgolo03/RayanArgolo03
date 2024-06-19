@@ -21,12 +21,12 @@ private String chamarNoDesenrolo(){
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayanargolo" alt="LinkedIn"/></a>
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5521989432205" alt="WhatsApp"/></a>
-<a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rayan_argolo/" alt="Instagram"/></a>
-<a href="#" title="WhatsApp">
+<a href="https://www.linkedin.com/in/rayanargolo" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&" alt="LinkedIn"/></a>
+<a href="https://wa.me/5521989432205">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&" alt="WhatsApp"/></a>
+<a href="https://www.instagram.com/rayan_argolo/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&" alt="Instagram"/></a>
 </p>
 
 <h1 align="center">𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h1>
