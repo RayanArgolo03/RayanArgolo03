@@ -11,7 +11,7 @@ class SobreMim {
 
 class Desenvolvedor extends SobreMim {
   private String stack = "Java";
-  private String estudandoAgora = "Containerização e testes unitários com Junit e Mockito";
+  private String estudandoAgora = "Containerização, JPA e Hibernate";
 }
 
 private String chamarNoDesenrolo(){
