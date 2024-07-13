@@ -4,17 +4,17 @@
 ```java
 import static rayan.argolo.Sobre.*;
 
-class SobreMim {
-  private String nome = "Rayan Argolo";
-  private String resumo = "Carioca, apaixonado por livros, tecnologia, musculação e conhecimento";
+class AboutMe {
+  private String name = "Rayan Argolo";
+  private String description = "Carioca, leitor voraz, apaixonado por tecnologia e musculação";
 }
 
-class Desenvolvedor extends SobreMim {
+class DeveloperBackEnd extends AboutMe {
   private String stack = "Java";
-  private String estudandoAgora = "Containerização, JPA e Hibernate";
+  private String learningNow = "JPA e Hibernate";
 }
 
-private String chamarNoDesenrolo(){
+private String callToTalk(){
     return "Caso queira trocar ideias, entre em contato comigo em alguma das redes sociais abaixo: ";
 }
 
@@ -29,7 +29,8 @@ private String chamarNoDesenrolo(){
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&" alt="Instagram"/></a>
 </p>
 
-<h1 align="center">𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬</h1>
+<br>
+<br>
 
 <div align="center">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -47,5 +48,5 @@ private String chamarNoDesenrolo(){
 <br>
 
 > [!TIP]
-> Segundo Aristóteles, <strong>nós somos o que fazemos repetidas vezes; então, a excelência não é um ato, mas sim um hábito<strong>. Estude, seja paciente. 
+> Segundo Aristóteles, <strong>nós somos o que fazemos repetidas vezes; então, a excelência não é um ato, mas sim um hábito<strong>. Estudar é estilo de vida. 
 
