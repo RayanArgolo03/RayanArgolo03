@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanArgolo03&label=Profile%20views&color=0e75b6&style=flat" alt="fredalissonx" /> </p>
 
 ```java
-import static rayan.argolo.Sobre.*;
+package rayan.argolo;
 
-class AboutMe {
+public class AboutMe {
   private String name = "Rayan Argolo";
   private String description = "Carioca, leitor voraz, apaixonado por tecnologia e musculação";
 }
@@ -14,8 +14,10 @@ class DeveloperBackEnd extends AboutMe {
   private String learningNow = "JPA e Hibernate";
 }
 
-private String callToTalk(){
-    return "Caso queira trocar ideias, entre em contato comigo em alguma das redes sociais abaixo: ";
+public static void main(String[] args) {
+  private String callToTalk(){
+      return "Caso queira trocar ideias, entre em contato comigo em alguma das redes sociais abaixo: ";
+  }
 }
 
 ```
