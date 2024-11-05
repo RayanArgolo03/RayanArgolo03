@@ -11,7 +11,7 @@ public class AboutMe {
 
 class DeveloperBackEnd extends AboutMe {
   private String stack = "Java";
-  private String learningNow = "JPA e Hibernate, MongoDB";
+  private String learningNow = "Quarkus";
 }
 
 public static void main(String[] args) {
