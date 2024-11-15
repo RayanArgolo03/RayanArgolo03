@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanArgolo03&label=Profile%20views&color=0e75b6&style=flat" alt="fredalissonx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RayanArgolo03&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 ```java
 package rayan.argolo;
@@ -36,6 +36,7 @@ public static void main(String[] args) {
 
 <div align="center">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img height="30" weigth ="30" src="https://img.shields.io/badge/Quarkus-4695EB.svg?style=for-the-badge&logo=Quarkus&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white">
@@ -48,7 +49,8 @@ public static void main(String[] args) {
 <img height="30" weigth ="30" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
-  <img height="30" weigth ="30" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
+<img height="30" weigth ="30" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
+<img height="30" weigth ="30" src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white">
 </div>
 
 <br>
