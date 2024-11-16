@@ -51,6 +51,8 @@ public static void main(String[] args) {
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
 <img height="30" weigth ="30" src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white">
+<img height="30" weigth ="30" src="https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=Flyway&logoColor=white">
+<img height="30" weigth ="30" src="https://img.shields.io/badge/Liquibase-2962FF.svg?style=for-the-badge&logo=Liquibase&logoColor=white">
 </div>
 
 <br>
