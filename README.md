@@ -61,5 +61,5 @@ public static void main(String[] args) {
 <br>
 
 > [!TIP]
-> Segundo Aristóteles, <strong>nós somos o que fazemos repetidas vezes; então, a excelência não é um ato, mas sim um hábito<strong>. Estudar é estilo de vida. 
+> Segundo Aristóteles, <strong>nós somos o que fazemos repetidas vezes; então, a excelência não é um ato, mas sim um hábito.<strong>
 
