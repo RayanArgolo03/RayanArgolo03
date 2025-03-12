@@ -11,7 +11,7 @@ public class AboutMe {
 
 class DeveloperBackEnd extends AboutMe {
   private String stack = "Java";
-  private String learningNow = "Quarkus";
+  private String learningNow = "Quarkus, Kubernetes, Prometheus e Grafana";
 }
 
 public static void main(String[] args) {
